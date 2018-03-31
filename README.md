@@ -1,1 +1,2 @@
-#dotfiles
+Chang's dot files
+====================
