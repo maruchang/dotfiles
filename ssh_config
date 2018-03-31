@@ -2,7 +2,7 @@
 Host gitlab
     HostName gitlab.com
     User git
-    IdentityFile ~/.ssh/id_rsa
+    IdentityFile ~/.ssh/changx_rsa
 
 # CAEN
 Host caen
